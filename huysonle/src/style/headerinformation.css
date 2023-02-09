@@ -1,0 +1,28 @@
+.header {
+    display: flex;
+    justify-content: space-around;
+}
+
+.header-PE {
+    display: flex;
+    justify-content: space-around;
+    width: 30%;
+}
+
+.header-PE-P {
+    margin-right: 10%;
+}
+.header-PE-E {
+    margin-left: 10%;
+}
+
+.header-Ac {
+    display: flex;
+}
+
+a.header-Ac-account {margin-right: 5%;}
+
+.header-Ac {
+    width: 30%;
+    justify-content: space-between;
+}
