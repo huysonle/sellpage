@@ -10,8 +10,19 @@ function App() {
       <Information></Information>
       <Logo></Logo>
       <Navbar></Navbar>
+      <div className="products">
+      <Product></Product>
+      <Product></Product>
+      <Product></Product>
+      <Product></Product>
+      <Product></Product>
+      <Product></Product>
+      <Product></Product>
+      <Product></Product>
+      <Product></Product>
       <Product></Product>
       </div>
+    </div>
   );
 }
 
