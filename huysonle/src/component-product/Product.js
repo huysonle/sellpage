@@ -3,7 +3,7 @@ import "../../src/style/product.css";
 
 const Product = () => {
   return (
-    <div>
+    <div className="products-item">
       <a href="" className="card">
         <img
           className="card-img-top"

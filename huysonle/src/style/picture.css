@@ -1,0 +1,11 @@
+.picture {
+    display: flex;
+    justify-content: space-around;
+}
+img.img-fluid {
+    margin: 1%;
+    width: 70%;
+}
+a.picture1 {
+    display: grid;
+}

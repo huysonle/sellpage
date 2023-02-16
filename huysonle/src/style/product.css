@@ -1,3 +1,7 @@
-a.card {
-    width: 10%;
+
+.products-item {
+    padding: 5%;
+}
+.products-list{
+    display: flex;
 }
