@@ -5,6 +5,8 @@ import Navbar from "./components/header/Navbar";
 import Product from "./component-product/Product";
 import Picture from "./components/body/Picture";
 import Picture2 from "./components/body/Picture2";
+import Navbar2 from "./components/header/Navbar2";
+import Product2 from "./component-product/Product2";
 
 function App() {
   return (
@@ -28,6 +30,18 @@ function App() {
         </div>
       </div>
       <Picture2></Picture2>
+      <Navbar2></Navbar2>
+      <div className="products-2">
+        <Product2></Product2>
+        <Product2></Product2>
+        <Product2></Product2>
+        <Product2></Product2>
+        <Product2></Product2>
+        <Product2></Product2>
+        <Product2></Product2>
+        <Product2></Product2>
+        <Product2></Product2>
+      </div>
     </div>
   );
 }

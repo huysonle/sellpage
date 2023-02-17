@@ -9,3 +9,9 @@ img.img-fluid {
 a.picture1 {
     display: grid;
 }
+.picture-2 {
+    display: flex;
+    width: 80%;
+    margin: 10%;
+    justify-content: space-around;
+}

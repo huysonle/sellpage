@@ -5,3 +5,19 @@
 .products-list{
     display: flex;
 }
+a.product2 {
+    display: flex;
+    margin: 2%
+}
+
+.product2-pic {
+    max-width: 80%;
+    height: auto;
+}
+.products-2 {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    justify-content: space-between;
+    margin: 2%;
+}
