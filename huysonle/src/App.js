@@ -7,6 +7,8 @@ import Picture from "./components/body/Picture";
 import Picture2 from "./components/body/Picture2";
 import Navbar2 from "./components/header/Navbar2";
 import Product2 from "./component-product/Product2";
+import Navbar3 from "./components/header/Navbar3";
+import Product3 from "./component-product/Product3";
 
 function App() {
   return (
@@ -41,6 +43,10 @@ function App() {
         <Product2></Product2>
         <Product2></Product2>
         <Product2></Product2>
+      </div>
+      <Navbar3></Navbar3>
+      <div>
+        <Product3></Product3>
       </div>
     </div>
   );

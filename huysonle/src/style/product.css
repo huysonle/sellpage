@@ -21,3 +21,14 @@ a.product2 {
     justify-content: space-between;
     margin: 2%;
 }
+.Product3 {
+    display: flex;
+}
+img.card-img-top {height: 27%;}
+.Product3-infor {
+    display: flex;
+    justify-content: space-between;
+}
+img.img-fluid.rounded-start {
+    height: 100%;
+}
